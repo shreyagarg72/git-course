@@ -6,6 +6,7 @@ const age= '21'
 function sum(a,b){
     return a+b;
 }
+<<<<<<< HEAD
 function mul(a,b){
     return a*b;
 }
@@ -13,3 +14,6 @@ function mul(a,b){
 function div(a,b){
     return a/b;
 }
+=======
+
+>>>>>>> parent of bac50a8 (mul function added)
